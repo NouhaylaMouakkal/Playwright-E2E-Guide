@@ -22,6 +22,9 @@
 
 Playwright is a modern end-to-end testing framework that allows you to test web applications across multiple browsers (Chromium, Firefox, WebKit) with a single API.
 
+<img width="645" height="413" alt="image" src="https://github.com/user-attachments/assets/265628bb-daae-411c-a8e9-bfd7f732f588" s/>
+
+
 ### Why Playwright?
 
 - ✅ **Cross-Browser Testing** - Test on Chromium, Firefox, and WebKit
